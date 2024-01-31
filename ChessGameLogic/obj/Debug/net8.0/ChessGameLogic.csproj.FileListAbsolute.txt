@@ -1,0 +1,11 @@
+D:\c++_projects\Chess Game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.deps.json
+D:\c++_projects\Chess Game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.dll
+D:\c++_projects\Chess Game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.pdb
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfoInputs.cache
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfo.cs
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.csproj.CoreCompileInputs.cache
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.dll
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\refint\ChessGameLogic.dll
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.pdb
+D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ref\ChessGameLogic.dll
