@@ -31,4 +31,4 @@ Welcome to the Chess Game project, a desktop application developed using WPF.NET
 ## Game 
 <img src="https://github.com/khalwsh/offline-chess-game/blob/main/IMG-20240201-WA0061.jpg" width=600>
 
-[![Video](https://github.com/khalwsh/Hosptial-Managment-System/blob/main/Hosptial-Managment-System/Web%20capture_17-1-2024_132533_www.youtube.com.jpeg)](https://github.com/khalwsh/offline-chess-game/blob/main/Record_2024_01_31_17_02_52_94.mp4)
+[![Video](https://github.com/khalwsh/offline-chess-game/blob/main/ChessGameLogic/Screenshot%20(243).png)](https://github.com/khalwsh/offline-chess-game/blob/main/Record_2024_01_31_17_02_52_94.mp4)
