@@ -1,7 +1,7 @@
 # Chess Game - WPF.NET 8.0
 Welcome to the Chess Game project, a desktop application developed using WPF.NET 8.0. This offline chess game allows users to play chess against a computer opponent or against another player on the same device.
 
-## Getting Started
+## About
 
 ### Prerequisites
 - Windows operating system
