@@ -28,7 +28,8 @@ Welcome to the Chess Game project, a desktop application developed using WPF.NET
 - __Mouse:__ Click on the piece you want to move and then click on the destination square.
 - __New Game:__ Start a new game at any time by selecting the "Restart" option.
 
-## Game 
+## Game picture
 <img src="https://github.com/khalwsh/offline-chess-game/blob/main/IMG-20240201-WA0061.jpg" width=600>
 
+## Game video
 [![Video](https://github.com/khalwsh/offline-chess-game/blob/main/ChessGameLogic/Screenshot%20(243).png)](https://github.com/khalwsh/offline-chess-game/blob/main/Record_2024_01_31_17_02_52_94.mp4)
