@@ -1,2 +1,4 @@
 # offline-chess-game
-offline chess game with WPF using .net framework
+## Game 
+<img src="https://github.com/khalwsh/offline-chess-game/blob/main/IMG-20240201-WA0061.jpg" width=900>
+
