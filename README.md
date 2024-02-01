@@ -15,6 +15,8 @@ Welcome to the Chess Game project, a desktop application developed using WPF.NET
 
 ### Features
 - __Two-player Mode:__ Play chess against a friend on the same device.
+- __User-friendly Interface:__ The application features a clean and intuitive user interface designed with Windows Presentation Foundation (WPF).
+- __Restart Move:__ allow you at any time to initialize the board with opening position.
 ## Game 
 <img src="https://github.com/khalwsh/offline-chess-game/blob/main/IMG-20240201-WA0061.jpg" width=600>
 
