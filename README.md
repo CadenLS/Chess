@@ -3,7 +3,7 @@ Welcome to the Chess Game project, a desktop application developed using WPF.NET
 
 ## UML
 
-<img src="https://github.com/khalwsh/offline-chess-game/blob/main/UML%20class%20-%20Page%201.png" width=1200>
+<img src="https://github.com/khalwsh/offline-chess-game/blob/main/UML%20class%20-%20Page%201.png" width=2500>
 
 ## About
 
