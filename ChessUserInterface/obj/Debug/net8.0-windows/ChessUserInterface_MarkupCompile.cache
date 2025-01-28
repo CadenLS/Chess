@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-D:\c++_projects\Chess Game\ChessUserInterface\obj\Debug\net8.0-windows\
+C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\obj\Debug\net8.0-windows\
 ChessUserInterface
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\c++_projects\Chess Game\ChessUserInterface\App.xaml
+C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\App.xaml
 4-1284736647
 
 101909985096
-199-1483507767
+199401622962
 GameOverMenu.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
 
 False

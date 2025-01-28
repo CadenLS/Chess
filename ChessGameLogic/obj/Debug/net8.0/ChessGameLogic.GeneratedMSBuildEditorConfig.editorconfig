@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ChessGameLogic
-build_property.ProjectDir = D:\c++_projects\Chess Game\ChessGameLogic\
+build_property.ProjectDir = C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

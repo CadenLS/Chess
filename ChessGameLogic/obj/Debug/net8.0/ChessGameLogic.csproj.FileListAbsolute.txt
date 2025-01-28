@@ -9,3 +9,15 @@ D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.dll
 D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\refint\ChessGameLogic.dll
 D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.pdb
 D:\c++_projects\Chess Game\ChessGameLogic\obj\Debug\net8.0\ref\ChessGameLogic.dll
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.deps.json
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.dll
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.pdb
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfoInputs.cache
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfo.cs
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.csproj.CoreCompileInputs.cache
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.sourcelink.json
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.dll
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\refint\ChessGameLogic.dll
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.pdb
+C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ref\ChessGameLogic.dll

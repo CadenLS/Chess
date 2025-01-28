@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\c++_projects\\Chess Game\\ChessUserInterface\\ChessUserInterface.csproj": {}
+    "C:\\khalwsh\\cmder\\offline-chess-game\\ChessUserInterface\\ChessUserInterface.csproj": {}
   },
   "projects": {
-    "D:\\c++_projects\\Chess Game\\ChessGameLogic\\ChessGameLogic.csproj": {
+    "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\ChessGameLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c++_projects\\Chess Game\\ChessGameLogic\\ChessGameLogic.csproj",
+        "projectUniqueName": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\ChessGameLogic.csproj",
         "projectName": "ChessGameLogic",
-        "projectPath": "D:\\c++_projects\\Chess Game\\ChessGameLogic\\ChessGameLogic.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\c++_projects\\Chess Game\\ChessGameLogic\\obj\\",
+        "projectPath": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\ChessGameLogic.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,6 +32,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,36 +58,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PC\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\c++_projects\\Chess Game\\ChessUserInterface\\ChessUserInterface.csproj": {
+    "C:\\khalwsh\\cmder\\offline-chess-game\\ChessUserInterface\\ChessUserInterface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\c++_projects\\Chess Game\\ChessUserInterface\\ChessUserInterface.csproj",
+        "projectUniqueName": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessUserInterface\\ChessUserInterface.csproj",
         "projectName": "ChessUserInterface",
-        "projectPath": "D:\\c++_projects\\Chess Game\\ChessUserInterface\\ChessUserInterface.csproj",
-        "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\c++_projects\\Chess Game\\ChessUserInterface\\obj\\",
+        "projectPath": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessUserInterface\\ChessUserInterface.csproj",
+        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
+        "outputPath": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessUserInterface\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\c++_projects\\Chess Game\\ChessGameLogic\\ChessGameLogic.csproj": {
-                "projectPath": "D:\\c++_projects\\Chess Game\\ChessGameLogic\\ChessGameLogic.csproj"
+              "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\ChessGameLogic.csproj": {
+                "projectPath": "C:\\khalwsh\\cmder\\offline-chess-game\\ChessGameLogic\\ChessGameLogic.csproj"
               }
             }
           }
@@ -93,6 +94,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -117,7 +123,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\PC\\.dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
