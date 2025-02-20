@@ -10,6 +10,7 @@ namespace ChessUserInterface
     {
         Restart,
         Exit,
-        Continue
+        Continue,
+        Choose
     }
 }

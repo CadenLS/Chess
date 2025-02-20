@@ -35,5 +35,10 @@ namespace ChessUserInterface
         {
             OptionSelected?.Invoke(Option.Restart);
         }
+
+        private void Choose_click(object sender, RoutedEventArgs e)
+        {
+            OptionSelected?.Invoke(Option.Choose);
+        }
     }
 }

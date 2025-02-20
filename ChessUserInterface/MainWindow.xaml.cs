@@ -224,6 +224,15 @@ namespace ChessUserInterface
                 }
             };
         }
+        private void Choose()
+        {
+            selectedPos = null;
+            HideHightlights();
+            moveCache.Clear();
+            gameState = new GameState(Player.white, Board.Initial());
+            DrawBoard(gameState.Board);
+            SetCursor(gameState.CurrentPalyer);
+        }
     }
 
 }

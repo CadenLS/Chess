@@ -4,6 +4,6 @@
     "\\ChessGameLogic",
     "\\ChessUserInterface"
   ],
-  "SelectedNode": "\\ChessUserInterface\\PauseMenu.xaml",
+  "SelectedNode": "\\ChessUserInterface\\MainWindow.xaml",
   "PreviewInSolutionExplorer": false
 }
