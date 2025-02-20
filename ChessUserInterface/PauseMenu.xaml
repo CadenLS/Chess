@@ -19,8 +19,8 @@
                 <ColumnDefinition Width="*"/>
             </Grid.ColumnDefinitions>
 
-            <TextBlock Grid.ColumnSpan="2"
-                       Text="REASTART GAME"
+            <TextBlock Grid.ColumnSpan="3"
+                       Text="RESTART GAME"
                        Style="{StaticResource TextStyle}"
                        FontSize="28"/>
             <Button Grid.Row="2"
@@ -35,9 +35,16 @@
                     Style="{StaticResource ButtonStyle}"
                     Width="80"
                     Height="30"
-                    Click="Restart_click"/>      
+                    Click="Restart_click"/>
+			<!--<Button Grid.Row="4"
+		            Grid.Column="2"
+		            Content="CHESS TYPE"
+		            Style="{StaticResource ButtonStyle}"
+		            Width="80"
+		            Height="30"
+		            Click="Restart_click"/>-->
 
-        </Grid>
+		</Grid>
         
     </Border>
 </UserControl>

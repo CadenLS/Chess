@@ -61,3 +61,35 @@ C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\obj\Debug\net8.0-windows\
 C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.pdb
 C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.genruntimeconfig.cache
 C:\khalwsh\cmder\offline-chess-game\ChessUserInterface\obj\Debug\net8.0-windows\ref\ChessUserInterface.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessUserInterface.exe
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessUserInterface.deps.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessUserInterface.runtimeconfig.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessUserInterface.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessUserInterface.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\bin\Debug\net8.0-windows\ChessGameLogic.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.csproj.AssemblyReference.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\GameOverMenu.g.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\PauseMenu.g.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\PromotionMenu.g.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface_MarkupCompile.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface_MarkupCompile.lref
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\App.baml
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\GameOverMenu.baml
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\PauseMenu.baml
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\PromotionMenu.baml
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.g.resources
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.AssemblyInfoInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.AssemblyInfo.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.csproj.CoreCompileInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.sourcelink.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUse.DF65641D.Up2Date
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\refint\ChessUserInterface.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ChessUserInterface.genruntimeconfig.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\ref\ChessUserInterface.dll

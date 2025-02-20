@@ -21,3 +21,15 @@ C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLog
 C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\refint\ChessGameLogic.dll
 C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.pdb
 C:\khalwsh\cmder\offline-chess-game\ChessGameLogic\obj\Debug\net8.0\ref\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.deps.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0\ChessGameLogic.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfoInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.AssemblyInfo.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.sourcelink.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\refint\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ChessGameLogic.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0\ref\ChessGameLogic.dll
