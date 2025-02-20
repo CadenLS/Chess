@@ -10,11 +10,11 @@ none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
 C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\App.xaml
-4-1284736647
+5-1499990297
 
-101909985096
+11-81844854
 199-435867089
-GameOverMenu.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
+GameOverMenu.xaml;MainWindow.xaml;Menu.xaml;PauseMenu.xaml;PromotionMenu.xaml;
 
 False
 
