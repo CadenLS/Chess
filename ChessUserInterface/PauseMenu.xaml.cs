@@ -38,7 +38,14 @@ namespace ChessUserInterface
 
         private void Choose_click(object sender, RoutedEventArgs e)
         {
-            OptionSelected?.Invoke(Option.Choose);
+            OpenMenuWindow();
+        }
+
+        private void OpenMenuWindow()
+        {
+            Menu menu = new Menu();
+            menu.Show();
+            Window.GetWindow(this)?.Close();
         }
     }
 }
