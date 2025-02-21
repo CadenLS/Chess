@@ -146,53 +146,43 @@ namespace ChessGameLogic
             int kingPos = randomGen.Next(1, 6);
             positions.Remove(kingPos);
             this[7, kingPos] = new King(Player.white);
+            this[0, kingPos] = new King(Player.Black);
 
             int leftRookPos = randomGen.Next(0, kingPos);
             positions.Remove(leftRookPos);
             this[7, leftRookPos] = new Rook(Player.white);
+            this[0, leftRookPos] = new Rook(Player.Black);
 
             int rightRookPos = randomGen.Next(kingPos + 1, 8);
             positions.Remove(rightRookPos);
             this[7, rightRookPos] = new Rook(Player.white);
+            this[0, rightRookPos] = new Rook(Player.Black);
 
-            int bishPos1 = positions[randomGen.Next(positions.Count)];
-            bishPos1 = bisheven[randomGen.Next(bisheven.Count)];
+            List<int> availableEven = bisheven.Where(pos => positions.Contains(pos)).ToList();
+            int bishPos1 = availableEven[randomGen.Next(availableEven.Count)];
             positions.Remove(bishPos1);
             this[7, bishPos1] = new Bishop(Player.white);
+            this[0, bishPos1] = new Bishop(Player.Black);
 
-            int bishPos2 = positions[randomGen.Next(positions.Count)];
-            bishPos2 = bish2odds[randomGen.Next(bish2odds.Count)];
+            List<int> availableOdd = bish2odds.Where(pos => positions.Contains(pos)).ToList();
+            int bishPos2 = availableOdd[randomGen.Next(availableOdd.Count)];
             positions.Remove(bishPos2);
             this[7, bishPos2] = new Bishop(Player.white);
+            this[0, bishPos2] = new Bishop(Player.Black);
+
 
             int queenPos = positions[randomGen.Next(positions.Count)];
             positions.Remove(queenPos);
             this[7, queenPos] = new Queen(Player.white);
+            this[0, queenPos] = new Queen(Player.Black);
 
             foreach (int pos in positions)
             {
                 this[7, pos] = new Knight(Player.white);
+                this[0, pos] = new Knight(Player.Black);
             }
 
             AddPawnStructureWhiteView();
-
-            //this[0, 0] = new Rook(Player.Black);
-            //this[0, 1] = new Knight(Player.Black);
-            //this[0, 2] = new Bishop(Player.Black);
-            //this[0, 3] = new Queen(Player.Black);
-            //this[0, 4] = new King(Player.Black);
-            //this[0, 5] = new Bishop(Player.Black);
-            //this[0, 6] = new Knight(Player.Black);
-            //this[0, 7] = new Rook(Player.Black);
-            //AddPawnStructureWhiteView();
-            //this[7, 0] = new Rook(Player.white);
-            //this[7, 1] = new Knight(Player.white);
-            //this[7, 2] = new Bishop(Player.white);
-            //this[7, 3] = new Queen(Player.white);
-            //this[7, 4] = new King(Player.white);
-            //this[7, 5] = new Bishop(Player.white);
-            //this[7, 6] = new Knight(Player.white);
-            //this[7, 7] = new Rook(Player.white);
         }
         public void Chess960StructureBlackView()
         {
