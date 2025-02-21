@@ -12,6 +12,7 @@ namespace ChessGameLogic
     {
         //the board class will store all the active pieces of the game and provide various helper methods
         private readonly Piece[,] pieces = new Piece[8, 8];
+        public GameTypes gameTypes;
 
         private readonly Dictionary<Player, Position> pawnSkipPositions = new Dictionary<Player, Position>
         {
@@ -49,9 +50,15 @@ namespace ChessGameLogic
         {
             pawnSkipPositions[player] = pos;
         }
-        public static Board Initial(bool whiteView = true)
+
+        public Board(GameTypes selectedGameType)
         {
-            Board board = new Board();
+            gameTypes = selectedGameType;
+        }
+
+        public static Board Initial(GameTypes selectedGameType, bool whiteView = true)
+        {
+            Board board = new Board(selectedGameType);
             if (whiteView)
             {
                 board.AddStartPiecesWhiteView();
@@ -63,7 +70,31 @@ namespace ChessGameLogic
 
             return board;
         }
-        public void AddStartPiecesWhiteView()
+
+        public void AddPawnStructureWhiteView()
+        {
+            for (int i = 0; i <= 7; i++)
+            {
+                this[1, i] = new Pawn(Player.Black);
+            }
+            for (int i = 0; i <= 7; i++)
+            {
+                this[6, i] = new Pawn(Player.white);
+            }
+        }
+        public void AddPawnStructureBlackView()
+        {
+            for (int i = 0; i <= 7; i++)
+            {
+                this[1, i] = new Pawn(Player.white);
+            }
+            for (int i = 0; i <= 7; i++)
+            {
+                this[6, i] = new Pawn(Player.Black);
+            }
+        }
+
+        public void RegularChessStructureWhiteView()
         {
             this[0, 0] = new Rook(Player.Black);
             this[0, 1] = new Knight(Player.Black);
@@ -73,14 +104,7 @@ namespace ChessGameLogic
             this[0, 5] = new Bishop(Player.Black);
             this[0, 6] = new Knight(Player.Black);
             this[0, 7] = new Rook(Player.Black);
-            for (int i = 0; i <= 7; i++)
-            {
-                this[1, i] = new Pawn(Player.Black);
-            }
-            for (int i = 0; i <= 7; i++)
-            {
-                this[6, i] = new Pawn(Player.white);
-            }
+            AddPawnStructureWhiteView();
             this[7, 0] = new Rook(Player.white);
             this[7, 1] = new Knight(Player.white);
             this[7, 2] = new Bishop(Player.white);
@@ -90,7 +114,7 @@ namespace ChessGameLogic
             this[7, 6] = new Knight(Player.white);
             this[7, 7] = new Rook(Player.white);
         }
-        public void AddStartPiecesBlackView()
+        public void RegularChessStructureBlackView()
         {
             this[0, 0] = new Rook(Player.white);
             this[0, 1] = new Knight(Player.white);
@@ -100,14 +124,7 @@ namespace ChessGameLogic
             this[0, 5] = new Bishop(Player.white);
             this[0, 6] = new Knight(Player.white);
             this[0, 7] = new Rook(Player.white);
-            for (int i = 0; i <= 7; i++)
-            {
-                this[1, i] = new Pawn(Player.white);
-            }
-            for (int i = 0; i <= 7; i++)
-            {
-                this[6, i] = new Pawn(Player.Black);
-            }
+            AddPawnStructureBlackView();
             this[7, 0] = new Rook(Player.Black);
             this[7, 1] = new Knight(Player.Black);
             this[7, 2] = new Bishop(Player.Black);
@@ -117,6 +134,60 @@ namespace ChessGameLogic
             this[7, 6] = new Knight(Player.Black);
             this[7, 7] = new Rook(Player.Black);
         }
+
+        public void Chess960StructureWhiteView()
+        {
+            this[0, 0] = new Rook(Player.Black);
+            this[0, 1] = new Knight(Player.Black);
+            //this[0, 2] = new Bishop(Player.Black);
+            this[0, 3] = new Queen(Player.Black);
+            this[0, 4] = new King(Player.Black);
+            this[0, 5] = new Bishop(Player.Black);
+            this[0, 6] = new Knight(Player.Black);
+            this[0, 7] = new Rook(Player.Black);
+            AddPawnStructureWhiteView();
+            this[7, 0] = new Rook(Player.white);
+            this[7, 1] = new Knight(Player.white);
+            this[7, 2] = new Bishop(Player.white);
+            this[7, 3] = new Queen(Player.white);
+            this[7, 4] = new King(Player.white);
+            this[7, 5] = new Bishop(Player.white);
+            this[7, 6] = new Knight(Player.white);
+            this[7, 7] = new Rook(Player.white);
+        }
+        public void Chess960StructureBlackView()
+        {
+            this[0, 0] = new Rook(Player.white);
+            this[0, 1] = new Knight(Player.white);
+            //this[0, 2] = new Bishop(Player.white);
+            this[0, 3] = new Queen(Player.white);
+            this[0, 4] = new King(Player.white);
+            this[0, 5] = new Bishop(Player.white);
+            this[0, 6] = new Knight(Player.white);
+            this[0, 7] = new Rook(Player.white);
+            AddPawnStructureBlackView();
+            this[7, 0] = new Rook(Player.Black);
+            this[7, 1] = new Knight(Player.Black);
+            this[7, 2] = new Bishop(Player.Black);
+            this[7, 3] = new Queen(Player.Black);
+            this[7, 4] = new King(Player.Black);
+            this[7, 5] = new Bishop(Player.Black);
+            this[7, 6] = new Knight(Player.Black);
+            this[7, 7] = new Rook(Player.Black);
+        }
+
+        public void AddStartPiecesWhiteView()
+        {
+            if (gameTypes == GameTypes.Chess) RegularChessStructureWhiteView();
+            else if (gameTypes == GameTypes.Chess960) Chess960StructureWhiteView();
+        }
+
+        public void AddStartPiecesBlackView()
+        {
+            if (gameTypes == GameTypes.Chess) RegularChessStructureBlackView();
+            else if (gameTypes == GameTypes.Chess960) Chess960StructureBlackView();
+        }
+
         public static bool IsInside(Position pos)
         {
             return pos.Row >= 0 && pos.Row < 8 && pos.Column >= 0 && pos.Column < 8;
@@ -149,9 +220,10 @@ namespace ChessGameLogic
                 return piece.CanCaptureOpponentKing(pos, this);
             });
         }
-        public Board Copy()
+        public Board Copy(GameTypes selectedGameType)
         {
-            Board copy = new Board();
+            gameTypes = selectedGameType;
+            Board copy = new Board(selectedGameType);
             foreach (var pos in PiecePositions())
             {
                 copy[pos] = this[pos].Copy();

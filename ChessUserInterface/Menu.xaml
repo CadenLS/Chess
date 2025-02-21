@@ -9,7 +9,42 @@
         WindowStartupLocation = "CenterScreen"
         Background="#101010">
     <Viewbox>
+        <Border Width="275" 
+        Height="125" 
+        Style="{StaticResource BorderStyle}" >
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
 
+                <TextBlock Grid.ColumnSpan="2"
+                   Text="CHOOSE GAMEMODE"
+                   Style="{StaticResource TextStyle}"
+                   FontSize="28"/>
+                <Button Grid.Row="2"
+				Grid.Column="0"
+				Content="Chess"
+				Style="{StaticResource ButtonStyle}"
+				Width="80"
+				Height="30"
+				Click="Chess_click"/>
+                <Button Grid.Row="2"
+				Grid.Column="1"
+				Content="Chess960"
+				Style="{StaticResource ButtonStyle}"
+				Width="80"
+				Height="30"
+				Click="Chess960_Click"/>
+
+            </Grid>
+
+        </Border>
     </Viewbox>
 </Window>
 <!--Viewbox to handle window scaling-->

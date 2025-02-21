@@ -4,6 +4,6 @@
     "\\ChessGameLogic",
     "\\ChessUserInterface"
   ],
-  "SelectedNode": "\\ChessUserInterface\\MainWindow.xaml",
+  "SelectedNode": "\\ChessGameLogic\\MoveType.cs",
   "PreviewInSolutionExplorer": false
 }

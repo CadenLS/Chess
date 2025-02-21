@@ -42,12 +42,13 @@ namespace ChessGameLogic
         }
         public override bool IsLegal(Board board)
         {
+            GameTypes gameType = board.gameTypes;
             Player player = board[FromPos].Color;
             if (board.IsInCheck(player))
             {
                 return false;
             }
-            Board copy = board.Copy();
+            Board copy = board.Copy(gameType);
             Position KingPosition = FromPos;
             for(int i = 0; i < 2; i++)
             {

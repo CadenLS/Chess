@@ -26,11 +26,13 @@ namespace ChessUserInterface
         private readonly Dictionary<Position,Move>moveCache = new Dictionary<Position,Move>();  
         private GameState gameState;
         private Position selectedPos = null;
-        public MainWindow()
+        private GameTypes selectedGameType;
+        public MainWindow(GameTypes gameType)
         {
             InitializeComponent();
             InitializeBoard();
-            gameState = new GameState(Player.white, Board.Initial());
+            selectedGameType = gameType;
+            gameState = new GameState(Player.white, Board.Initial(selectedGameType));
             DrawBoard(gameState.Board);
             SetCursor(gameState.CurrentPalyer);
         }
@@ -199,7 +201,7 @@ namespace ChessUserInterface
             selectedPos = null;
             HideHightlights();
             moveCache.Clear();
-            gameState = new GameState(Player.white, Board.Initial());
+            gameState = new GameState(Player.white, Board.Initial(selectedGameType));
             DrawBoard(gameState.Board);
             SetCursor(gameState.CurrentPalyer);
         }
@@ -229,7 +231,7 @@ namespace ChessUserInterface
             selectedPos = null;
             HideHightlights();
             moveCache.Clear();
-            gameState = new GameState(Player.white, Board.Initial());
+            gameState = new GameState(Player.white, Board.Initial(selectedGameType));
             DrawBoard(gameState.Board);
             SetCursor(gameState.CurrentPalyer);
         }

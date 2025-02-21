@@ -15,8 +15,9 @@ namespace ChessGameLogic
         public abstract bool Execute(Board board);
         public virtual bool IsLegal(Board board)
         {
+            GameTypes gameType = board.gameTypes;
             Player player = board[FromPos].Color;
-            Board boardCopy = board.Copy();
+            Board boardCopy = board.Copy(gameType);
             Execute(boardCopy);
             return !boardCopy.IsInCheck(player);
         }
