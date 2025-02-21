@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChessUserInterface\\GameOverMenu.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChessUserInterface\\GameOverMenu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\PauseMenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChessUserInterface\\PauseMenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessGameLogic\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ChessGameLogic\\Board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -26,64 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Board.cs",
               "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessGameLogic\\Board.cs",
               "RelativeDocumentMoniker": "ChessGameLogic\\Board.cs",
               "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessGameLogic\\Board.cs",
               "RelativeToolTip": "ChessGameLogic\\Board.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAI8AAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-20T19:51:20.413Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GameOverMenu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml.cs",
-              "RelativeDocumentMoniker": "ChessUserInterface\\GameOverMenu.xaml.cs",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml.cs",
-              "RelativeToolTip": "ChessUserInterface\\GameOverMenu.xaml.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAAAGIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-21T00:54:37.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "GameOverMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml",
-              "RelativeDocumentMoniker": "ChessUserInterface\\GameOverMenu.xaml",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\GameOverMenu.xaml",
-              "RelativeToolTip": "ChessUserInterface\\GameOverMenu.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-21T00:55:20.747Z",
               "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PauseMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\PauseMenu.xaml",
-              "RelativeDocumentMoniker": "ChessUserInterface\\PauseMenu.xaml",
-              "ToolTip": "C:\\Users\\csinclair\\Desktop\\Neumont Documents\\Existing Code\\CadenChessHalwsh\\Chess\\ChessUserInterface\\PauseMenu.xaml",
-              "RelativeToolTip": "ChessUserInterface\\PauseMenu.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-20T17:59:49.693Z",
-              "EditorCaption": ""
             }
           ]
         }
