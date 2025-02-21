@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\c++_projects\Chess Game\ChessUserInterface\obj\Debug\net8.0-windows\
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\obj\Debug\net8.0-windows\
 ChessUserInterface
 none
 false
-TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-D:\c++_projects\Chess Game\ChessUserInterface\App.xaml
-4-1284736647
+TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessUserInterface\App.xaml
+5-1499990297
 
-12-1121740799
-199-1483507767
-GameOverMenu.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
+131181396547
+199-435867089
+GameOverMenu.xaml;MainWindow.xaml;Menu.xaml;PauseMenu.xaml;PromotionMenu.xaml;
 
 False
 
