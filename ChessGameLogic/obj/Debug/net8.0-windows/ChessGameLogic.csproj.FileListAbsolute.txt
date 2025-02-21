@@ -1,0 +1,12 @@
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0-windows\ChessGameLogic.deps.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0-windows\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\bin\Debug\net8.0-windows\ChessGameLogic.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.AssemblyInfoInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.AssemblyInfo.cs
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.sourcelink.json
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\refint\ChessGameLogic.dll
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ChessGameLogic.pdb
+C:\Users\csinclair\Desktop\Neumont Documents\Existing Code\CadenChessHalwsh\Chess\ChessGameLogic\obj\Debug\net8.0-windows\ref\ChessGameLogic.dll
